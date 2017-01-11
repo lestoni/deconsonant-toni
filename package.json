@@ -1,0 +1,19 @@
+{
+  "name": "decon-toni",
+  "version": "1.0.0",
+  "description": "Removes consonants from a string or word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lestoni/deconsonant-toni.git"
+  },
+  "author": "Tony Mutai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lestoni/deconsonant-toni/issues"
+  },
+  "homepage": "https://github.com/lestoni/deconsonant-toni#readme"
+}
